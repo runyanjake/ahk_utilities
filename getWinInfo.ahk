@@ -1,4 +1,6 @@
-﻿;Gets color at mouse position.
+﻿;Gets window information
+
+^c:: ExitApp
 ^x::
 WinGetActiveStats, title, width, height, winX, winY
 WinGetClass, class, A
