@@ -11,3 +11,6 @@ Makes a popup with some window info. Start with CTRL+X, exit script with CTRL+C.
 
 ###### mousePosClick
 Sends a mouse click at the current location every half second. Simple but nice to not write this literally every time i make a project. Start with CTRL+X, pause with CTRL+Z, exit script with CTRL+C.
+
+###### mouseCoords
+Makes a popup with current mouse coords (relative to top left of window in focus). Start with CTRL+X, exit script with CTRL+C.
